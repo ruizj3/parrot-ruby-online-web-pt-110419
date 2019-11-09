@@ -3,5 +3,3 @@
 def parrot(string = "Squawk")
   puts "#{string}!"
 end
-
-print parrot
